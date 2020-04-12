@@ -17,7 +17,7 @@ function App() {
   const [title3,setTitle3]=useState('Year Facts');
   const [label,setLabel]=useState('Give a number');
   const [label1,setLabel1]=useState('Give a number');
-  const [label2,setLabel2]=useState('Give a data');
+  const [label2,setLabel2]=useState('Give a date');
   const [label3,setLabel3]=useState('Give a year');
   const[image,setImage]=useState(t);
   const [img1,setImg1]=useState(m);
